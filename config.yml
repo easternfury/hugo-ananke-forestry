@@ -34,5 +34,7 @@ params:
   recent_posts_number: 2
 menu:
   main:
+  - name: Reviews
+    weight: 3
   - name: Podcasts
     weight: 2
