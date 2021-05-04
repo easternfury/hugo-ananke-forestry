@@ -1,6 +1,6 @@
 ---
 title: EASTERN FURY
-featured_image: "/images/whiteeyeybrows-copy.png"
+featured_image: ''
 description: ''
 
 ---
