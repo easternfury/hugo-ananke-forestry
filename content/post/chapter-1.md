@@ -5,6 +5,7 @@ featured_image: "/images/whiteeyeybrows-copy.png"
 tags:
 - scene
 title: Michiko Nishiwaki
+disable_share: true
 
 ---
 Michiko Niwaki also know as The Back for those glorious debts, traps, and lats, oh my, is a fab villain in many a HK flick.
