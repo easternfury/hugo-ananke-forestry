@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "/images/header.png"
+featured_image: "/images/whiteeyeybrows-copy-1.png"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
