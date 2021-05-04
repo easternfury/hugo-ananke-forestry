@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
+title: EASTERN FURY
 featured_image: "/images/whiteeyeybrows-copy.png"
 description: Flying Bullets and Flailing Fists
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+**The ultimate American scource for info on asian cinematography especially martial arts and heroic bloodshed offering in depth reviews and behind the scene action to increase the interest in this genre and improve the distribution/acess to these films**
